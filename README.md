@@ -37,4 +37,20 @@ This board exists purely to validate that architecture in isolation — no other
 
 ## Status
 
-Schematic complete and cross-checked pin-by-pin against manufacturer datasheets. PCB fabrication in progress.
+Schematic complete and cross-checked pin-by-pin against manufacturer datasheets. PCB fabricated; bring-up and fault-isolation testing in progress.
+
+## Gallery
+
+**3D render**
+
+<p float="left">
+  <img src="images/3d-view-top.png" width="380" alt="3D render, top view">
+  <img src="images/3d-view-bottom.png" width="380" alt="3D render, bottom view">
+</p>
+
+**Copper layers**
+
+<p float="left">
+  <img src="images/top-copper.png" width="380" alt="Top copper layer">
+  <img src="images/bottom-copper.png" width="380" alt="Bottom copper layer">
+</p>
