@@ -37,7 +37,7 @@ This board exists purely to validate that architecture in isolation — no other
 
 ## Status
 
-Schematic complete and cross-checked pin-by-pin against manufacturer datasheets. PCB fabricated; bring-up and fault-isolation testing in progress.
+Schematic complete and cross-checked pin-by-pin against manufacturer datasheets. PCB fabrication in progress.
 
 ## Gallery
 
